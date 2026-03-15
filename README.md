@@ -1,5 +1,6 @@
 # MIT-6.5950-Notes
 Personal notes for MIT Secure Hardware Design.
+Source: https://shd.mit.edu/2025/
 
 ### Lectures:
 * Lecture 1 – Hardware security intro
